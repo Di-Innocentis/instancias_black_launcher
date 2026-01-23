@@ -1,11 +1,13 @@
 {
-  "instances": [
-    {
-      "name": "Pitcharcity Revolution Vol 4",
-      "desc": "Servidor oficial de ElPipebro",
-      "zip_url": "PON_AQUI_EL_LINK_DIRECTO_DE_TU_MODPACK.zip",
-      "pack_version": "1.0",
-      "whitelist": []
-    }
-  ]
+    "instances": [
+        {
+            "name": "Pitcharcity Revolution Vol 4",
+            "desc": "Servidor oficial de ElPipebro",
+            "zip_url": "PON_AQUI_EL_LINK_DIRECTO_DE_TU_MODPACK.zip",
+            "pack_version": "1.0",
+            "whitelist": [
+                "CentisTV"
+            ]
+        }
+    ]
 }
