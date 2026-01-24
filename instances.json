@@ -5,11 +5,7 @@
             "desc": "Servidor oficial de ElPipebro",
             "zip_url": "PON_AQUI_EL_LINK_DIRECTO_DE_TU_MODPACK.zip",
             "pack_version": "1.0",
-            "whitelist": [
-                "CentisTV",
-                "ElPipeBro",
-                "EmyTheMocking"
-            ]
+            "whitelist": []
         }
     ]
 }
