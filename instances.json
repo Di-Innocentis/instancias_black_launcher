@@ -3,7 +3,7 @@
         {
             "name": "Pitcharcity Revolution Vol 4",
             "desc": "Servidor oficial de ElPipebro",
-            "zip_url": "PON_AQUI_EL_LINK_DIRECTO_DE_TU_MODPACK.zip",
+            "zip_url": "https://github.com/VittorioDiInnocentis/DinoLauncher-Test-Assets/releases/download/v1.0.0/Modpack.Pitchar.Def.zip",
             "pack_version": "1.0",
             "icon_url": "https://instancias-black-launcher.vercel.app/revoliv.png",
             "whitelist": ["CentisTV"],
