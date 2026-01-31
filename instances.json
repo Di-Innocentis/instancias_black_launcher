@@ -6,7 +6,7 @@
             "zip_url": "https://github.com/Di-Innocentis/Prueba/releases/download/1.0/pitcharcity_revolution_-_the_sun_awakens.zip",
             "pack_version": "1.0",
             "icon_url": "https://instancias-black-launcher.vercel.app/revoliv.png",
-            "whitelist": ["CentisTV"],
+            "whitelist": ["CentisTV", "ElPipeBro"],
             "claimed_discord_ids": [
                 "946544035236032572"
             ]
