@@ -62,5 +62,18 @@
                 "988653340747522068"
             ]
         }
+        {
+            "name": "PRUEBA BLACK HOLE",
+            "desc": "Hola esta es una prueba, privada de launcher",
+            "zip_url": "https://github.com/Di-Innocentis/Prueba/releases/download/1.0/prueba.pitchar.zip",
+            "pack_version": "1.0",
+            "icon_url": "URL_DEL_ICONO_NUEVO",
+            "whitelist": [
+                "RinzlerVoid",
+                "CentisTV"
+            ],
+            "claimed_discord_ids": [
+                "ID_DISCORD_1",
+                "ID_DISCORD_2"
     ]
 }
