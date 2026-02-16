@@ -3,7 +3,7 @@
         {
             "name": "Pitcharcity Magic Adventure",
             "desc": "Volvemos recargados el mundo ha sido destruido, pero uno nuevo esta por comenzar",
-            "zip_url": "https://github.com/Di-Innocentis/Prueba/releases/download/1.0/prueba.black.Hold.zip",
+            "zip_url": "",
             "pack_version": "1.0",
             "icon_url": "https://instancias-black-launcher.vercel.app/icon.png",
             "whitelist": [
