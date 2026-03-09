@@ -11,13 +11,10 @@
         {
             "name": "PITCHARCITY: 5",
             "desc": "El primer pitcharcity de solo streamers, una nueva experiencia",
-            "zip_url": "https://github.com/Di-Innocentis/Prueba/releases/download/1.0/prueba.black.Hold.zip",
+            "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/1%2C0/pitcharcity.5.zip",
             "pack_version": "1.0",
             "icon_url": "https://instancias-black-launcher.vercel.app/icon.png",
-            "whitelist": [
-                "Niky_S",
-                "CentisTV"
-            ],
+            "whitelist":"*",
             "claimed_discord_ids": [
                 "ID_DISCORD_1",
                 "ID_DISCORD_2"
