@@ -1,10 +1,12 @@
 {
-    "name": "PITCHARCITY: 5",
-    "desc": "El primer pitcharcity de solo streamers, una nueva experiencia",
-    "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/1%2C0/pitcharcity.5.zip",
-    "pack_version": "1.0",
-    "icon_url": "https://instancias-black-launcher.vercel.app/icon.png",
-    "whitelist": [
+  "instances": [
+    {
+      "name": "PITCHARCITY: 5",
+      "desc": "El primer pitcharcity de solo streamers, una nueva experiencia",
+      "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/1%2C0/pitcharcity.5.zip",
+      "pack_version": "1.0",
+      "icon_url": "https://instancias-black-launcher.vercel.app/icon.png",
+      "whitelist": [
         "SantyAlone",
         "TheWolf02",
         "TheAlex30",
@@ -13,9 +15,11 @@
         "EmyTheMocking",
         "CentisTV",
         "Niky_S"
-    ],
-    "claimed_discord_ids": [
+      ],
+      "claimed_discord_ids": [
         "ID_DISCORD_1",
         "ID_DISCORD_2"
-    ]
+      ]
+    }
+  ]
 }
