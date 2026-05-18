@@ -6,30 +6,8 @@
       "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/1%2C0/TU_NUEVO_ARCHIVO_AQUI.zip",
       "pack_version": "1",
       "icon_url": "https://instancias-black-launcher.vercel.app/icon.png",
-      "whitelist": [
-        "TheWolf02",
-        "TheAlex30",
-        "ElPipeBro",
-        "Litersh",
-        "EmyTheMocking",
-        "CentisTV",
-        "Niky_S",
-        "OmbraassetataR",
-        "LeshliePink",
-        "Sixsero099",
-        "A1ejandroReport",
-        "Chariiss_s",
-        "Neni11",
-        "Kirakist",
-        "arvintachh",
-        "SUJETO1",
-        "PitcharCity",
-        "Datrosky"
-      ],
-      "claimed_discord_ids": [
-        "ID_DISCORD_1",
-        "ID_DISCORD_2"
-      ]
+      "whitelist": [],
+      "claimed_discord_ids": []
     }
   ]
 }
