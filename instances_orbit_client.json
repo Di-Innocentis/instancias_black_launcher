@@ -8,11 +8,13 @@
             "icon_url": "https://instancias-black-launcher.vercel.app/icon.png",
             "whitelist": [
                 "CentisTV",
-                "ElPipeBro"
+                "ElPipeBro",
+                "Litersh"
             ],
             "claimed_discord_ids": [
                 "946544035236032572",
-                "1395808881833148529"
+                "1395808881833148529",
+                "779461250815492157"
             ]
         }
     ]
