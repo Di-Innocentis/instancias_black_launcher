@@ -52,7 +52,7 @@
             "pack_version": "1",
             "icon_url": "https://instancias-black-launcher.vercel.app/icon.png",
             "whitelist": [],
-            "claimed_discord_ids": []
+            "claimed_discord_ids": [CentisTV]
         }
     ]
 }
