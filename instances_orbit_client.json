@@ -2,7 +2,7 @@
     "instances": [
         {
             "name": "PITCHARCITY 6: APOCALIPSIS",
-            "desc": "La nueva temporada de Pitcharcity, \u00a1Un nuevo amanecer lleno de aventuras!",
+            "desc": "La nueva temporada de Pitcharcity, ¡Un nuevo amanecer lleno de aventuras!",
             "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/1%2C0/TU_NUEVO_ARCHIVO_AQUI.zip",
             "pack_version": "1",
             "icon_url": "https://instancias-black-launcher.vercel.app/icon.png",
@@ -44,6 +44,15 @@
                 "1004913336036630528",
                 "1299555302814781572"
             ]
+        },
+        {
+            "name": "pruebas",
+            "desc": "Instancia de pruebas para el launcher.",
+            "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/1%2C0/TU_NUEVO_ARCHIVO_AQUI.zip",
+            "pack_version": "1",
+            "icon_url": "https://instancias-black-launcher.vercel.app/icon.png",
+            "whitelist": [],
+            "claimed_discord_ids": []
         }
     ]
 }
