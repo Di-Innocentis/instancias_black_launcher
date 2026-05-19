@@ -53,7 +53,7 @@
             "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/1%2C0/pitcha12.zip",
             "pack_version": "1",
             "icon_url": "https://instancias-black-launcher.vercel.app/icon.png",
-            "whitelist": [],
+            "whitelist": ["CentisTV"],
             "claimed_discord_ids": [
                 "CentisTV"
             ]
