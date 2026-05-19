@@ -62,7 +62,8 @@
             "pack_version": "1",
             "icon_url": "https://instancias-black-launcher.vercel.app/icon.png",
             "whitelist": [
-                "CentisTV"
+                "CentisTV",
+                "SoyZoTReX"
             ],
             "claimed_discord_ids": [
                 "CentisTV",
