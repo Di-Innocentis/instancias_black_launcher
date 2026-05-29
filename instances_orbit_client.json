@@ -83,9 +83,12 @@
             "pack_version": "1",
             "icon_url": "",
             "whitelist": [
-                "CentisTV"
+                "CentisTV",
+                "arvintachh"
             ],
-            "claimed_discord_ids": []
+            "claimed_discord_ids": [
+                "1442731619701100629"
+            ]
         }
     ]
 }
