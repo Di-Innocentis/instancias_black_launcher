@@ -79,8 +79,8 @@
         {
             "name": "Pitcharcity 6",
             "desc": "Hemos retrocedido en el tiempo, un nuevo futuro nos espera?.... un momento ya estuvimos aqui?.",
-            "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/instance_data.zip",
-            "pack_version": "2",
+            "zip_url": "x",
+            "pack_version": "1",
             "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/Logo.Tipografico.de.Marca.Retro.Mostaza.8.png",
             "whitelist": [
                 "CentisTV",
