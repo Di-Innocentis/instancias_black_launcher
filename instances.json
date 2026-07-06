@@ -1,80 +1,68 @@
 {
-  "instances": [
-    {
-      "name": "PITCHARCITY: 5",
-      "desc": "El primer pitcharcity de solo streamers, una nueva experiencia",
-      "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/1%2C0/picha4.zip",
-      "pack_version": "4",
-      "icon_url": "https://instancias-black-launcher.vercel.app/icon.png",
-      "whitelist": [
-        "SantyAlone",
-        "TheWolf02",
-        "Santyalone",
-        "SantyAlone",
-        "santyalone",
-        "TheAlex30",
-        "ElPipeBro",
-        "Litersha",
-        "EmyTheMocking",
-        "CentisTV",
-        "Niky_S",
-        "OmbraassetataR",
-        "Chadow182",
-        "LeshliePink",
-        "Sixsero099",
-        "Bellsita",
-        "A1ejandroReport",
-        "Chariiss_s",
-        "Neni11",
-        "Kirakist",
-        "SoNatahIA",
-        "Jademavt",
-        "arvintachh",
-        "porrito09",
-        "SUJETO1",
-        "PITCHARCITY",
-        "PitcharCity",
-        "Usitaa_",
-        "Datrosky",
-        "ChadowB",
-        "sorning24YT",
-        "Yoxhi"
-      ],
-      "claimed_discord_ids": [
-        "ID_DISCORD_1",
-        "ID_DISCORD_2"
-      ]
-    },
-    {
-      "name": "PITCHARCITY: 6",
-      "desc": "La nueva temporada de Pitcharcity, ¡Un nuevo amanecer lleno de aventuras!",
-      "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/1%2C0/TU_NUEVO_ARCHIVO_AQUI.zip",
-      "pack_version": "1",
-      "icon_url": "https://instancias-black-launcher.vercel.app/icon.png",
-      "whitelist": [
-        "TheWolf02",
-        "TheAlex30",
-        "ElPipeBro",
-        "Litersh",
-        "EmyTheMocking",
-        "CentisTV",
-        "Niky_S",
-        "OmbraassetataR",
-        "LeshliePink",
-        "Sixsero099",
-        "A1ejandroReport",
-        "Chariiss_s",
-        "Neni11",
-        "Kirakist",
-        "arvintachh",
-        "SUJETO1",
-        "PitcharCity",
-        "Datrosky"
-      ],
-      "claimed_discord_ids": [
-        "ID_DISCORD_1",
-        "ID_DISCORD_2"
-      ]
-    }
-  ]
+    "instances": [
+        {
+            "name": "PITCHARCITY 6: APOCALIPSIS",
+            "desc": "La nueva temporada de Pitcharcity, ¡Un nuevo amanecer lleno de aventuras!",
+            "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/1%2C0/pitchar_deff.zip",
+            "pack_version": "1",
+            "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/1%2C0/Logo.Tipografico.de.Marca.Retro.Mostaza.6.png",
+            "silent": true,
+            "whitelist": [
+                "CentisTV", "ElPipeBro", "Litersh", "Centis", "RinzlerVoid",
+                "Genchu05", "LeshliePink", "OmbraassetataR", "Arvintachh", "Bellsita",
+                "Thealex30", "JhinEth", "JuankaFake", "Xoparis", "AguSteola",
+                "marchelo_9", "martinez199", "AxeBitz", "xXCrazyMC", "SoyZoTReX",
+                "SempiternalLion", "A1ejandroreport", "samuel.cesaroni", "EmyTheMocking",
+                "Faculo0105LPG", "Neni11", "cbastiancb", "Kirakist", "Bughitaaa",
+                "Rubynavx", "Sixsero099", "Datrosky", "SUJETO1"
+            ],
+            "claimed_discord_ids": [
+                "946544035236032572", "1395808881833148529", "779461250815492157",
+                "1161288921922154506", "709195465471557633", "438867633702699016",
+                "845951164071149590", "315880807090749440", "1442731619701100629",
+                "320998316101992456", "732825300567588926", "1134706418319110174",
+                "945395306294542447", "763262777497616396", "645638010745913374",
+                "1004913336036630528", "1299555302814781572", "581610374676217856",
+                "707356381640130583", "334566927714484224", "1084162101205020712",
+                "441815009266368522", "587095489065779232", "1009929687386030171",
+                "1012143460054216784", "521649090833022987", "1339106843548586044",
+                "695092087389028472", "722999481783681075", "800540197594333224",
+                "494710564413505547", "1050577527988564118", "1462930834754506755"
+            ]
+        },
+        {
+            "name": "Pitcharcity 6",
+            "desc": "Hemos retrocedido en el tiempo, un nuevo futuro nos espera?.... un momento ya estuvimos aqui?.",
+            "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/pidef.zip",
+            "pack_version": "2",
+            "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/Logo.Tipografico.de.Marca.Retro.Mostaza.8.png",
+            "silent": true,
+            "whitelist": [
+                "CentisTV", "arvintachh", "martinez199", "Thealex30", "Genchu05",
+                "SempiternalLion", "xXCrazyMC", "PitcharCity", "ElPipeBro", "AxeBitz",
+                "OmbraassetataR", "Kirakist", "xoParis", "LeshliePink", "Litersh",
+                "Neni11", "EmyTheMocking", "Bellsita", "Faculo0105LPG", "AguSteola",
+                "A1ejandroReport", "bughitaaa", "Datrosky", "Sixsero099",
+                "cbastiancb", "SUJETO1"
+            ],
+            "claimed_discord_ids": [
+                "1442731619701100629", "581610374676217856", "732825300567588926",
+                "438867633702699016", "441815009266368522", "334566927714484224",
+                "709195465471557633", "1395808881833148529", "707356381640130583",
+                "315880807090749440", "722999481783681075", "763262777497616396",
+                "845951164071149590", "779461250815492157", "1339106843548586044",
+                "1012143460054216784", "320998316101992456", "521649090833022987",
+                "645638010745913374", "587095489065779232", "800540197594333224",
+                "1462930834754506755", "1050577527988564118", "695092087389028472",
+                "1161288921922154506"
+            ]
+        },
+        {
+            "name": "BingoCraft",
+            "desc": "¡El servidor de BingoCraft! Disponible para todos.",
+            "zip_url": "https://TU_URL_AQUI.zip",
+            "pack_version": "1",
+            "icon_url": "https://TU_ICONO_AQUI.png"
+        }
+    ]
 }
