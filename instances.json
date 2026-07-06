@@ -60,8 +60,8 @@
         {
             "name": "BingoCraft",
             "desc": "¡El servidor de BingoCraft! Disponible para todos.",
-            "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/bingocraft.zip",
-            "pack_version": "1",
+            "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/bingocraft.1.1.zip",
+            "pack_version": "1.1",
             "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/icon.png"
         }
     ]
