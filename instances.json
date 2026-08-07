@@ -1,7 +1,7 @@
 {
     "instances": [
         {
-            "name": "ARENA ALAHAM",
+            "name": "Alaham Arena",
             "desc": "¡El servidor de Alaham Arena! Disponible para todos.",
             "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/instance_data.zip",
             "pack_version": "1.0",
