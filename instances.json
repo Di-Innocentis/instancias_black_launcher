@@ -63,6 +63,13 @@
             "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/bingocraft.1.1.zip",
             "pack_version": "1.1",
             "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/icon.png"
+        },
+        {
+            "name": "Alaham Arena",
+            "desc": "¡El servidor de Alaham Arena! Disponible para todos.",
+            "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/alaham_arena.zip",
+            "pack_version": "1.0",
+            "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/icon.png"
         }
     ]
 }
