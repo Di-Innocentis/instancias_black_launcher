@@ -1,6 +1,13 @@
 {
     "instances": [
         {
+            "name": "ARENA ALAHAM",
+            "desc": "¡El servidor de Alaham Arena! Disponible para todos.",
+            "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/instance_data.zip",
+            "pack_version": "1.0",
+            "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/logo.1.png"
+        },
+        {
             "name": "PITCHARCITY 6: APOCALIPSIS",
             "desc": "La nueva temporada de Pitcharcity, ¡Un nuevo amanecer lleno de aventuras!",
             "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/1%2C0/pitchar_deff.zip",
@@ -63,13 +70,6 @@
             "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/bingocraft.1.1.zip",
             "pack_version": "1.1",
             "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/icon.png"
-        },
-        {
-            "name": "Alaham - Arena",
-            "desc": "¡El servidor de Alaham Arena! Disponible para todos.",
-            "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/versions.zip",
-            "pack_version": "1.0",
-            "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/logo.1.png"
         }
     ]
 }
