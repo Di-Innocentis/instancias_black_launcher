@@ -142,20 +142,22 @@
         {
             "name": "Pitcharcity",
             "desc": "Hola! esta es la instancia de pitcharcity, donde viviras una nueva  experiencia.",
-            "zip_url":"D",
+            "zip_url": "D",
             "pack_version": "1",
             "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/Logo.Tipografico.de.Marca.Retro.Mostaza.22.png",
             "whitelist": [
                 "CentisTV",
                 "martinez199",
                 "arvintachh",
-                "ElPipeBro"
+                "ElPipeBro",
+                "RinzlerVoid"
             ],
             "claimed_discord_ids": [
                 "1442731619701100629",
                 "1299555302814781572",
                 "581610374676217856",
-                "1395808881833148529"
+                "1395808881833148529",
+                "709195465471557633"
             ]
         }
     ]
