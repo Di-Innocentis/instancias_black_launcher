@@ -207,7 +207,7 @@
             "name": "PRUEBAS",
             "desc": "Instancia de pruebas",
             "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/instance_data.zip",
-            "pack_version": "1",
+            "pack_version": "1.1",
             "icon_url": "",
             "whitelist": [
                 "CentisTV",
