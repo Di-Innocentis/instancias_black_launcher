@@ -140,10 +140,10 @@
             ]
         },
         {
-            "name": "Pitcharcity Pruebas",
-            "desc": "Instancia de pruebas para Pitcharcity.",
-            "zip_url":"https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/instance_data.zip",
-            "pack_version": "1.4",
+            "name": "Pitcharcity",
+            "desc": "Hola! esta es la instancia de pitcharcity, donde viviras una nueva  experiencia.",
+            "zip_url":"D",
+            "pack_version": "1",
             "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/Logo.Tipografico.de.Marca.Retro.Mostaza.22.png",
             "whitelist": [
                 "CentisTV",
