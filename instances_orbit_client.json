@@ -78,9 +78,18 @@
             ]
         },
         {
+            "name": "prueba elduve",
+            "desc": "¡El servidor de BingoCraft! Disponible para todos.",
+            "zip_url": "ttps://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/neopitchar.zip",
+            "pack_version": "1.1",
+            "silent": true,
+            "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/icon.png"
+             "whitelist": ["elduve"]
+        },
+        {
             "name": "Pitcharcity 6",
             "desc": "Hemos retrocedido en el tiempo, un nuevo futuro nos espera?.... un momento ya estuvimos aqui?.",
-            "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/pidef.zip",
+            "zip_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/neopitchar.zip",
             "pack_version": "2",
             "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/Logo.Tipografico.de.Marca.Retro.Mostaza.8.png",
             "whitelist": [
