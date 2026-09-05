@@ -15,6 +15,14 @@
             "pack_version": "1.1",
             "silent": true,
             "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/icon.png"
+        },
+        {
+            "name": "Alaham Race",
+            "desc": "¡El servidor de Alaham Race! Disponible para todos.",
+            "zip_url": "",
+            "pack_version": "1.0",
+            "silent": true,
+            "icon_url": "https://github.com/Di-Innocentis/instancias_black_launcher/releases/download/setup2.0/logo.1.png"
         }
     ]
 }
